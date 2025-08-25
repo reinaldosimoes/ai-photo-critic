@@ -21,7 +21,7 @@
     "clsx": "^2.1.1",
     "dotenv": "^16.6.1",
     "framer-motion": "^12.23.12",
-    "langchain": "^0.3.30",
+    "langchain": "^0.3.31",
     "lucide-react": "^0.539.0",
     "next": "15.4.6",
     "pdf-parse": "^1.1.1",
