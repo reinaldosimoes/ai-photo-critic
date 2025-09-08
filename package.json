@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@langchain/community": "^0.3.51",
+    "@langchain/community": "^0.3.55",
     "@langchain/openai": "^0.6.7",
     "@langchain/pinecone": "^0.2.0",
     "@pinecone-database/pinecone": "^5.1.2",
